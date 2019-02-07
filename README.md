@@ -1,2 +1,2 @@
 # testtme
-test me too
+test repo for git commandd demonstration
